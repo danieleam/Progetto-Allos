@@ -1,0 +1,20 @@
+.nav-item {
+	font-size: 120%;
+}
+
+li:hover ul.dropdown-menu {
+	display: inline;
+	margin-top: 0;
+}
+
+body {
+	font-variant: small-caps;
+}
+
+nav {
+	color: white;
+}
+
+.nav-link {
+	color: white;
+}
