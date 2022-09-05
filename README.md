@@ -3,10 +3,11 @@
 Prima di iniziare con il test vero e proprio, bisogna fare:
 1) Avviare MAMP
 2) Creare database "prenotazioni_aeree";
-3) Avviare il file PrenotazioniAereeApplication.java dal package Allos.Project.PrenotazioniAeree; 
-4) Fare gli inserimenti delle row all'interno del DB, trovate lo script degli insert nel file "InserimentiDB.sql";
-5) Da Eclipse avviare dal Package Explore il progetto "PrenotazioniAeree" con tasto destro -> Run As > Run on Server;
-6) Eseguiti i passaggi precedenti, ci troviamo nella pagina principale del sito.
+3) Importare "PrenotazioniAeree.zip" su eclipse;
+4) Avviare il file PrenotazioniAereeApplication.java dal package Allos.Project.PrenotazioniAeree; 
+5) Fare gli inserimenti delle row all'interno del DB, trovate lo script degli insert nel file "InserimentiDB.sql";
+6) Da Eclipse avviare dal Package Explore il progetto "PrenotazioniAeree" con tasto destro -> Run As > Run on Server;
+7) Eseguiti i passaggi precedenti, ci troviamo nella pagina principale del sito.
 Il database viene gestito con MySQL
 
 ps. il progetto si divide in Guest per il funzionamento principale, ed in Admin per tutta la gestione dei vari dati.
